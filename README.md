@@ -76,13 +76,13 @@ While the models shown above look similar to the 2nd model, the plot on the righ
 
 ## Final Model Summary:
 
-R-square: 36% of the variation in price can be explained by the variables in the dataset. 
+R-square: 61% of the variation in price can be explained by the variables in the dataset. 
 
 Number of P-values > 0.05: 0
 
-Train RMSE: 0.799
+Train RMSE: 0.624
 
-Test RMSE: 0.800
+Test RMSE: 0.638
 
 In the final model summary, the r-square was lower than the first and second model. However, the Train RMSE and Test RMSE was significantly lower, and they were almost equal, which indicates that there isn't overfitting. 
 
