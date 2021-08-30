@@ -68,9 +68,9 @@ Features that had poor correlation coefficients with housing price, p-values gre
 
 ## Final Model Results:
 
-![image](https://user-images.githubusercontent.com/77416319/128873400-9e55276d-3b0d-4253-a312-12e5e2e40528.png)
+![image](https://user-images.githubusercontent.com/77416319/131274162-221ee009-64cf-478c-b801-c492ca4c4b75.png)
 
-![image](https://user-images.githubusercontent.com/77416319/128873459-408dad31-5617-4337-9047-7a319adf1198.png)
+![image](https://user-images.githubusercontent.com/77416319/131274181-23d44e86-7902-4645-86ff-d53072938615.png)
 
 While the models shown above look similar to the 2nd model, the plot on the right shows more of a straight line and therefore shows more normal distribution. There is high predictive power in housing prices in this model.
 
